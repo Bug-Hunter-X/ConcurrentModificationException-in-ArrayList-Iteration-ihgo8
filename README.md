@@ -1,0 +1,1 @@
+This repository demonstrates a common Java error: ConcurrentModificationException.  The `ConcurrentModificationExceptionExample.java` file shows the erroneous code.  The `ConcurrentModificationExceptionExampleSolution.java` file provides a corrected version using an Iterator.  This exception occurs when a collection is structurally modified (added, removed) while iterating.
